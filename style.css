@@ -1,0 +1,30 @@
+body {
+    padding: 15px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+input {
+    display: block;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+label {
+    font-weight: bolder;
+}
+
+textarea {
+    display: block;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+button {
+    background-color: white;
+    border-radius: 5px;
+}
